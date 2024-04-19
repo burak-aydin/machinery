@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RichardKnop/machinery/v1/backends/dynamodb"
-	"github.com/RichardKnop/machinery/v1/log"
-	"github.com/RichardKnop/machinery/v1/tasks"
 	"github.com/aws/aws-sdk-go/aws"
+	"github.com/burak-aydin/machinery/v1/backends/dynamodb"
+	"github.com/burak-aydin/machinery/v1/log"
+	"github.com/burak-aydin/machinery/v1/tasks"
 	"github.com/stretchr/testify/assert"
 
 	awsdynamodb "github.com/aws/aws-sdk-go/service/dynamodb"

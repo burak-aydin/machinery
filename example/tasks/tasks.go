@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/RichardKnop/machinery/v1/log"
+	"github.com/burak-aydin/machinery/v1/log"
 )
 
 // Add ...
